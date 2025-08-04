@@ -1,0 +1,2 @@
+# Precios_de_inmuebles_regresion_lineal
+Utilización de regresión lineal
